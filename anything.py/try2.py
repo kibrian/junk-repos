@@ -21,6 +21,6 @@ def agefunction(age):
 
 agefunction=agefunction("fathersname,mothersname,sonsname")
 
-print("agefunction {}".format("father"))
-print("agefunction {}".format("mother"))
-print("agefunction {}".format("son"))
+print("agefunction{}".format("father"))
+print("agefunction{}".format("mother"))
+print("agefunction{}".format("son"))
