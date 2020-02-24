@@ -10,7 +10,11 @@ print(students.get('2'))
 for student in students:
     print(students['1'])
 
-for student in students.value()
-    print (nick)
-    
+for student in students.values():
+    print('Brian')
 
+
+for keys,values in students.items():
+    print(keys,values)
+
+print(len(students))
