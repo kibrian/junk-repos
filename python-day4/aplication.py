@@ -27,3 +27,25 @@ def averageMark(num1,num2,num3):
 average = averageMark(math,eng,kis)
 print("Average Mark:{}".format(average))
 print("Mean Grade:{}".format(gradesystem(average)))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

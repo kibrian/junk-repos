@@ -25,12 +25,12 @@ def sum(num1,num2,num3):
 
 print("Total marks: {}".format(sum(math,eng,kisw)))
 
-def average Mark(num1,num2,num3):
+def averageMark(num1,num2,num3):
     marks = (num1+num2+num3)/3
     return marks
 
-print("avarage Mark:{}".format(avarage Mark))
-print("Mean Grade: {}".format(gradesystem(avarage Mark)))
+print("avarage Mark:{}".format(avarageMark))
+print("Mean Grade: {}".format(gradesystem(avarageMark)))
 
 
 

@@ -2,7 +2,7 @@ Numbofsubjs=int(input('Numb of subjs: '))
 subjs=dict()
 if Numbofsubjs > 0:
 
- for subjs in range(1,numbofsubjs):
+ for subjs in range(1, numbofsubjs):
     print(subjs) 
 
 def getsubjsScores():
