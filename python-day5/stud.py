@@ -17,4 +17,3 @@ for student in students.values():
 for keys,values in students.items():
     print(keys,values)
 
-print(len(students))
