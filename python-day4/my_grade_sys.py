@@ -13,7 +13,7 @@ print(("swa"),swaScore,'\n')
 sum = (mathScore+engScore+swaScore)
 meanScore =(sum)
 grade =(meanScore)
-
+MeanGrade = (mathScore+engScore+swaScore/3)
 print(meanScore)
 print('Mean Grade :',grade)
 print('Mean Grade :',getGrade(getMeanScore(getSum(mathScore,engScore,swaScore))))
