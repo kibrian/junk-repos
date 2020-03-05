@@ -26,12 +26,12 @@ def gradesystem(Score):
         return 'zero'
 
 print("subjectsgrade: {}".format(gradesystem(score)))
-print(Grade)
+
 #students details stored here!!!
 students=dict()
 students['studentName']=input('Enter studentName: ')
 students['RegistrationNo']=int(input('Enter RegistrationNo: '))
 students['studentclass']=input('Enter the class of student: ')
 students['studentsubject']=input('Enter subjectName: ')
-students['subjectgrade']=subjectgrade
+
 print(students)

@@ -14,6 +14,6 @@ swahili=dictionary()
  
 #output='{bye} shati langu ni {blue}'.format(** swahili)
 #output='uko {ready} ?'.format(** swahili)
-output='{hello}  una hitaji usaidizi....{today}'.format(**swahili)
+#output='{hello}  una hitaji usaidizi....{today}'.format(**swahili)
  
-print(output)
+#print(output)
